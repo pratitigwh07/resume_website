@@ -6,7 +6,7 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
+    name: 'Pratiti Das',
     title: 'Your Title | Your Role',
     image: getAsset('images/profile.png'), // Customize or replace with your profile image
     description:
@@ -110,13 +110,13 @@ const siteConfig = {
       title: 'Project Title 1',
       cardImage: getAsset('images/project/placeholder.png'),
       description: 'Short description of your project and what it does...',
-      Githublink: 'https://github.com/your-username/your-project',
+      Githublink: 'https://github.com/pratitigwh07/your-project',
     },
     {
       title: 'Project Title 2',
       cardImage: getAsset('images/project/placeholder.png'),
       description: 'Another project summary...',
-      Githublink: 'https://github.com/your-username/another-project',
+      Githublink: 'https://github.com/pratitigwh07/another-project',
     },
   ],
 
@@ -148,9 +148,9 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
+    email: 'pratitigwh07@gmail.com',
     linkedin: 'https://www.linkedin.com/in/your-linkedin/',
-    github: 'https://github.com/your-username',
+    github: 'https://github.com/pratitigwh07',
     googleScholar: 'https://scholar.google.com/citations?user=YOURID',
     orcid: 'https://orcid.org/0000-0000-0000-0000',
   },

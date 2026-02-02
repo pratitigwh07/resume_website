@@ -41,7 +41,7 @@ If you can edit text, you can publish this site.
 2. Name your new repo (e.g., `my-portfolio`).
 3. Open `src/config/config.ts` directly in GitHub and replace placeholders.
 4. Enable GitHub Pages (Settings → Pages → Deploy from GitHub Actions or `gh-pages` branch if you use an action).
-5. Share your live URL: `https://your-username.github.io/my-portfolio/`.
+5. Share your live URL: `https://pratitigwh07.github.io/my-portfolio/`.
 
 ### OPTION 2: Download ZIP (No Git Needed)
 1. Click "Code" → "Download ZIP".
@@ -51,7 +51,7 @@ If you can edit text, you can publish this site.
 
 ### OPTION 3: Fork & Customize Locally
 1. Fork the repo.
-2. Clone: `git clone https://github.com/your-username/my-portfolio.git`
+2. Clone: `git clone https://github.com/pratitigwh07/my-portfolio.git`
 3. Run install + dev server (see Setup below).
 4. Edit config and push changes — auto build.
 
@@ -164,7 +164,7 @@ This is a pure static site. No database, API keys, or backend setup. Just conten
 ## 📦 Local Setup (If You Want to Run It)
 
 ```bash
-git clone https://github.com/your-username/my-portfolio.git
+git clone https://github.com/pratitigwh07/my-portfolio.git
 cd my-portfolio
 npm install
 npm run dev

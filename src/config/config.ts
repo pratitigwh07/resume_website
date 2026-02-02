@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Pratiti Das',
     title: 'Your Title | Your Role',
-    image: getAsset('images/profile.jpeg'), // Customize or replace with your profile image
+    image: getAsset('images/profile pic.png'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
       '\n' +

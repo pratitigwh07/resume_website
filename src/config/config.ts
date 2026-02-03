@@ -10,7 +10,7 @@ const siteConfig = {
     title: 'Student',
     image: getAsset('images/profile_pic.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am a first-year Economics with Data Science student with a strong interest in data analysis and economic trend mapping. I am seeking opportunities in the finance field to apply quantitative and analytical skills in real-world settings. I am motivated to learn, gain hands-on experience, and build a strong foundation for a future career in finance.\n' +
       '\n' +
       'Mention your institution or company, areas of interest, and what you teach or build.\n' +
       '\n' +

@@ -10,15 +10,8 @@ const siteConfig = {
     title: 'Student',
     image: getAsset('images/profile_pic.png'), // Customize or replace with your profile image
     description:
-      'I am a first-year Economics with Data Science student with a strong interest in data analysis and economic trend mapping. I am seeking opportunities in the finance field to apply quantitative and analytical skills in real-world settings. I am motivated to learn, gain hands-on experience, and build a strong foundation for a future career in finance.\n' +
-      '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
-      '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
-      '\n' +
-      'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+      'I am a first-year Economics with Data Science student with a strong interest in data analysis and economic trend mapping. I am seeking opportunities in the finance field to apply quantitative and analytical skills in real-world settings. I am motivated to learn, gain hands-on experience, and build a strong foundation for a future career in finance.'
+      location: 'Bangalore, India',
   },
 
   seo: {
